@@ -19,3 +19,6 @@ sudo npm install -g $i
 
 fi
 done 
+cd $user
+mkdir compartir
+serve -p 1234  compartir
